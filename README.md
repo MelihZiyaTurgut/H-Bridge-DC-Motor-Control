@@ -1,2 +1,2 @@
 # H-Bridge-DC-Motor-Control
-Öğrenme amaçlı yaptığım projedir.
+Öğrenme amaçlı yaptığım projedir. 
